@@ -120,7 +120,7 @@ def paste():
 
 
 def about():
-    showinfo("About this program", "This is a -slightly- improved version of the notepad.\nMade by MK_Megalodonix (a silly little oomfie)\n\nCreation date: 2023/4/26")
+    showinfo("About this program", "This is a -slightly- improved version of the notepad.\nMade by Megalodonix \nCreation date: 2023/4/26")
 
 def quit():
     win.destroy()
